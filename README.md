@@ -29,6 +29,4 @@ Repo sample: https://github.com/ldej/swagger-go-example
 
 Site sample: https://ldej.nl/post/generating-swagger-docs-from-go/
 
-
-
-
+Swagger Explanation link: https://platzi.com/tutoriales/1149-go-basico/2370-como-documentar-tus-apis-en-go-con-swagger/
